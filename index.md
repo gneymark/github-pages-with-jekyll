@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Gabe's Page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is all about turtles
